@@ -3,7 +3,8 @@
  !!! This project is still under construction !!!
  !!! Please use with cautions !!!
 
- 
+Project is NGINX Plus related so require NGINX Commercial licence to be trial/purchased
+
  To start with NGINX plus first read those prerequis
 
 # Prerequisites 
